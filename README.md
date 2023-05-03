@@ -15,3 +15,7 @@ In this data set, I'll explore some of the following through visualization :
 10. In 2023, What day in a week have the most transaction?
 11. In 2023, What day in a week have the most total spending?
 12. In 2023, Which category the customer spend most money?
+
+Links:
+Dataset : [Kaggle](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset)
+Project : [google colab](https://colab.research.google.com/drive/1iw-RKUY14AKfxSwGctY-IvnrewN4RDpf?usp=sharing)
